@@ -20,8 +20,8 @@
         "issues": "https://github.com/frostealth/yii2-aws-s3/issues?state=open"
     },
     "require": {
-        "php": ">=7.0.0",
-        "aws/aws-sdk-php": "~3.17",
+        "php": ">=7.2.5",
+        "aws/aws-sdk-php": "~3.320",
         "yiisoft/yii2": "~2.0"
     },
     "require-dev": {
